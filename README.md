@@ -11,6 +11,5 @@ The installation manual has not been updated.
 * Sqlite3
 
 ## The Content
-* `tron-vanity-address.py` generates TRON vanity address based on a chosen keyword.
 * `senarai.py` is the Proof-of-Concept of Senarai sustainable blockchain-based storage.
 The database `db.sqlite3` stores all necessary information.
